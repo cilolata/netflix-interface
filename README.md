@@ -9,7 +9,7 @@ Projeto desenvolvido no Bootcamp da [**Digital Innovation One**](https://digital
  * CSS
  * JavaScript
 
-**Bibliotecas**
+**Biblioteca JavaScript**
  * Jquery
 
 **PLugin**
