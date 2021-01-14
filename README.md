@@ -5,15 +5,15 @@ Projeto desenvolvido no Bootcamp da [**Digital Innovation One**](https://digital
 **Objetivo:** recriar o layot inicial da Netflix
 
 **Stacks**
-*HTML
-*CSS
-*JavaScript
+ * HTML
+ * CSS
+ * JavaScript
 
 **Bibliotecas**
-*Jquery
+ * Jquery
 
 **PLugin**
-*Owl Carousel
+ * Owl Carousel
 
 ![netflix-interface](img_readme/netflix.PNG)
 ![netflix-interface](img_readme/netflix2.PNG)
