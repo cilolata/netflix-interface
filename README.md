@@ -2,7 +2,7 @@
 
 Projeto desenvolvido no Bootcamp da [**Digital Innovation One**](https://digitalinnovation.one/)
 
-**Objetivo:** recriar o layout inicial da Netflix
+**Objetivo:** recriar a interface inicial da Netflix
 
 **Stacks**
  * HTML
