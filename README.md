@@ -16,4 +16,4 @@ Projeto desenvolvido no Bootcamp da [**Digital Innovation One**](https://digital
  * Owl Carousel
 
 ![netflix-interface](img_readme/netflix.PNG) ![netflix-interface](img_readme/netflix2.PNG)
-![netflix-interface](img_readme/netflix-mobile.PNG)![netflix-interface](img_readme/netflix-mobile1.PNG)
+![netflix-interface](img_readme/netflix-mobile.PNG) ![netflix-interface](img_readme/netflix-mobile1.PNG)
